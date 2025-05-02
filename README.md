@@ -1,2 +1,2 @@
-# pandas_ds_project
-Answering questions related to stocks.
+# SPY-Analysis
+Project for Penn State's DS220 class
