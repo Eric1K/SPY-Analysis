@@ -1,6 +1,6 @@
 # SPY-Analysis
 
-View Here: https://eric1k.github.io/SPY-Analysis/index.html
+View Here: https://eric1k.github.io/SPY-Analysis/index2.html
 
 Project for Penn State's DS220 class
 
